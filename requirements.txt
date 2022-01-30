@@ -1,2 +1,4 @@
 pygame~=2.0.0
 PyYAML~=5.3.1
+azure-quantum
+azure-quantum[qiskit]
