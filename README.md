@@ -13,6 +13,7 @@ Different code files and folders are available to impliment different elements o
 The quantum circuits are implemented in the ```quantum.py``` file.
 
 ![alttext](https://github.com/RituDhaulakhandi/Microsoft-IonQ/blob/master/1.png)
+![alttext](https://github.com/RituDhaulakhandi/Microsoft-IonQ/blob/master/6.png)
 
 How to play
 -----------
