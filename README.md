@@ -5,6 +5,13 @@ Quantum Emblem is a strategy game with quantum advantage.
 
 It is written in Python with pygame.
 
+Code files
+-----------
+
+Different code files and folders are available to impliment different elements of the entire game.
+
+The quantum circuits are implemented in the ```quantum.py``` file.
+
 How to play
 -----------
 
