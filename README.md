@@ -1,7 +1,7 @@
-Ice Emblem
+Quantum Emblem
 ==========
 
-Ice Emblem aims to be a completely free software clone of Fire Emblem.
+Quantum Emblem is a strategy game with quantum advantage.
 
 It is written in Python with pygame.
 
